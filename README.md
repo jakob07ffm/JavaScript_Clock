@@ -18,3 +18,5 @@ This project is a simple digital clock implemented using HTML, CSS, and JavaScri
 
 2. **Open in Browser**:
    - Open the `index.html` file in a web browser to view the clock.
+
+![](1.JPG)
